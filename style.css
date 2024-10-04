@@ -8,7 +8,7 @@
   --cor-texto: #FFFFFF;
 }
 
-*{
+* {
   margin: 0;
   padding: 0;
 }
@@ -21,18 +21,18 @@ body {
   color: var(--cor-texto);
 }
 
-.apresentacao{
+.apresentacao {
   display: flex;
   margin: 10% 15%;
   align-items: center;
   justify-content: space-between;
 }
 
-.titulo__destaque{
+.titulo__destaque {
   color: var(--cor-destaque);
 }
 
-.apresentacao__links{
+.apresentacao__links {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -53,11 +53,11 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-.foto{
+.foto {
   height: 490px;
 }
 
-.apresentacao__conteudo{
+.apresentacao__conteudo {
   width: 615px;
   display: flex;
   flex-direction: column;
@@ -74,6 +74,6 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-.apresentacao__links{
+.apresentacao__links {
   display: flex;
 }
